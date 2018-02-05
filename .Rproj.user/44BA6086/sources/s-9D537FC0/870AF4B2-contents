@@ -1,0 +1,45 @@
+---
+title: "RMarkdown mini-assignment"
+author: "Ana Maria Hernandez"
+date: "February 6, 2018"
+output: html_document
+---
+
+## Classroom 
+
+**1004 Exploratory Hall**  
+
+## Objectives  
+
+By the end of the course, students will be able to:  
+
+* Use Github for collaborating on a reproducible research document 
+
+* Obtain, clean, transform, and visualize a dataset using the R programming language 
+
+* Interpret, and predict dataset trends using statistical inference and models 
+
+* Critically examine and interpret statistical claims reported in mass media  
+
+
+## Textbook  
+
+### R for Data Science: Import, Tidy, Transform, Visualize, and Model Data  
+_Hadley Wickham_  
+
+_Garrett Grolemund_   
+
+This book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it.  
+
+## Grading  
+
+The grading categories for CDS-101 are the following:  
+
+
+Category | Weight 
+---------|------------
+Participation | 10%
+Reading responses | 15%
+Homework | 25%
+Midterm project | 25%
+Final project | 25%  
